@@ -1,7 +1,7 @@
 
 # Output 
 
-<img src="https://github.com/MGVasanth/tally_mobile/" data-canonical-src="https://github.com/MGVasanth/tally_mobile/assets/109457654/37593fa1-7ad1-4ecc-9f80-fffdaa945ef4" width="200" height="400" />
+
 ![IMG-20240115-WA0009](https://github.com/MGVasanth/tally_mobile/assets/109457654/37593fa1-7ad1-4ecc-9f80-fffdaa945ef4)
 ![IMG-20240115-WA0007](https://github.com/MGVasanth/tally_mobile/assets/109457654/207a8aa9-947d-4829-9e4b-c74a750aa6fb)
 ![IMG-20240115-WA0008](https://github.com/MGVasanth/tally_mobile/assets/109457654/02531b4e-b284-46bc-a3fb-34eccde7a17b)
